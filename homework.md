@@ -62,4 +62,6 @@
 
  [Рецепт взят с этого сайта](https://kylinariya.ru/klassicheskiy-borsch/)
 
- 
+ ```
+ print("Приятного аппетита!")
+ ```
